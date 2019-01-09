@@ -1,3 +1,5 @@
+**Bower support is deprecated. Use npm [@accursoft/jquery-caret](https://www.npmjs.com/package/jquery-caret) instead.**
+
 jQuery Caret
 ============
 
